@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhishek.kaundal0052@gmail.com**
 
-- ⚡ Fun fact **I often play guitar.**
+- **I like to play guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
