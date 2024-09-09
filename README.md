@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkaundal0052" alt="abhishekkaundal0052" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
-
+- 🌱 I’m proficient in **MERN STACK**.
+-  I'm currently learning about **DevOps**. 
 - 📫 How to reach me **abhishek.kaundal0052@gmail.com**
 
 - **I like to play guitar.**
